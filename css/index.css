@@ -1,0 +1,31 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.topNav {
+  padding: 20px 30px 30px 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+.results {
+  padding: 50px;
+  background-color: rgb(238, 238, 238);
+}
+
+.video {
+  padding: 20px;
+  margin: 20px;
+  border: solid black 2px;
+}
+
+.navigation {
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navBtn {
+  padding: 10px;
+}
